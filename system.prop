@@ -1,2 +1,5 @@
 # Display
 ro.sf.lcd_density=240
+
+# Scheduler
+sys.io.scheduler=bfq
