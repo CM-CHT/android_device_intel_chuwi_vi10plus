@@ -118,16 +118,6 @@ lib/libsvml.so
 lib/libva.so
 lib/libva-android.so
 
-# Media SDK
-etc/mfx_omxil_core.conf
-lib/libgabi++-mfx.so
-lib/libmfx_omx_components_hw.so
-lib/libmfx_omx_components_sw.so
-lib/libmfx_omx_core.so
-lib/libmfxhw32.so
-lib/libmfxsw32.so
-lib/libstlport-mfx.so
-
 # Sensors
 bin/sensorhubd
 etc/sensor_hal_config_default.xml
