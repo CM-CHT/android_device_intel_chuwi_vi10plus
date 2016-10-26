@@ -137,8 +137,3 @@ lib/libaware_client.so
 lib/libcontextarbitor.so
 lib/libgesture.so
 lib/libsensorhub.so
-
-# Wifi
-bin/hostapd
-bin/wpa_supplicant
-lib/libwpa_client.so
