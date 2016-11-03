@@ -12,9 +12,6 @@ etc/parameter-framework/Structure/Audio/SstSubsystem.xml
 etc/parameter-framework/Structure/Route/RouteSubsystem.xml
 lib/libbluedroidcomm-subsystem.so
 
-# Bluetooth
-etc/firmware/bt/rtl8723b_fw
-
 # Camera
 etc/atomisp/00ov2680b.cht_hr.aiqb
 etc/atomisp/01ov2680.aiqb
