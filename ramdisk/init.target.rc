@@ -3,6 +3,9 @@ on post-fs-data
     chmod 0777 /sys/bus/i2c/devices/i2c-2/2-0048/enable
     chmod 0777 /sys/bus/i2c/devices/i2c-2/2-0048/delay
 
+    chmod 0777 /sys/bus/i2c/devices/i2c-2/2-0010/enable
+    chmod 0777 /sys/bus/i2c/devices/i2c-2/2-0010/delay
+
     # accelerometer
     chmod 0777 /sys/bus/i2c/devices/2-0018/enable
     chmod 0777 /sys/bus/i2c/devices/2-0018/delay
